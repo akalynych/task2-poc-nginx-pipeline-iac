@@ -1,1 +1,0 @@
-# task2-poc-nginx-pipeline-iac
